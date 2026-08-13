@@ -1,0 +1,23 @@
+# Compilación .NET
+**/bin/
+**/obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Resultados de pruebas
+TestResults/
+
+# Archivos de depuración
+*.pdb
+
+# Datos generados durante desarrollo
+src/KasaServiceTracker/Data/service-orders.json
+
+# Datos generados por la aplicación publicada
+Aplicacion/Data/service-orders.json
+Aplicacion/Data/Exportaciones/*.xlsx
+Aplicacion/Data/Tickets/*.txt

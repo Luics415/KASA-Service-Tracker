@@ -1,0 +1,14 @@
+﻿========================================
+          KASA SERVICE TRACKER
+            COPIA USUARIO
+========================================
+Folio:        KS-20260812-001
+Fecha:        12/08/2026 16:07
+Placas:       LATENCIA
+Vehículo:     FORMULA 1 PICA PICA 2020
+Servicio:     ACEITE Y DEMAS
+Costo est.:   $4,000.00
+Entrega:      COMPLETADA
+========================================
+Gracias por confiar en nuestro servicio.
+========================================
