@@ -31,3 +31,8 @@ dotnet build
 dotnet test
 dotnet run --project src/KasaServiceTracker
 ```
+
+## Capturas de Pantalla
+
+<img width="507" height="338" alt="image" src="https://github.com/user-attachments/assets/8e00aaa3-45a7-4564-bdd7-3bbe02fb3f1a" />
+
